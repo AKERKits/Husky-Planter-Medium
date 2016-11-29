@@ -1,4 +1,4 @@
-#Husky Planter-Medium v1.0
+#Husky Planter - Medium v1.0
 
 *Overview*
 
