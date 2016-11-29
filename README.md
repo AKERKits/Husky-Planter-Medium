@@ -4,7 +4,7 @@
 
 The **AKER Husky Planter-Medium** is a planter designed to be fabricated using a CNC router and standard sheet materials. For more information, visit the [AKER Website](http://www.akerkits.com).
 
-![Husky Planter-Medium](https://github.com/AKERKits/Husky-Planter-Small/blob/master/Images/AKER%20-%20Husky%20Planter-Small%20-%20v1.0%20-%20Master%20Assembly%20Cropped-min.jpg)
+![Husky Planter-Medium](https://github.com/AKERKits/Husky-Planter-Medium/blob/master/Images/AKER%20-%20Husky%20Planter-Medium%20-%20v1.0%20-%20Master%20Assembly%20Cropped-min.jpg)
 
 *Source Files*
 
@@ -29,5 +29,5 @@ The **Husky Planter-Medium** was modeled using our updated 2016 modeling workflo
 
 *Nesting Layout*
 
-![https://github.com/AKERKits/Husky-Planter-Medium/blob/master/Images/AKER%20-%20Husky%20Planter-Medium%20-%20v1.0%20-%20Master%20Assembly%20Cropped-min.jpg)
+![Husky Planter-Medium](https://github.com/AKERKits/Husky-Planter-Medium/blob/master/Images/AKER%20-%20Husky%20Planter-Medium%20-%20v1.0%20-%20Master%20Assembly%20Cropped-min.jpg)
 
